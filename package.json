@@ -1,0 +1,9 @@
+{
+  "name": "blockchain-play",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dnlowman/blockchain-play.git",
+  "author": "dnlowman <dnlowman@gmail.com>",
+  "license": "NONE",
+  "private": true
+}
